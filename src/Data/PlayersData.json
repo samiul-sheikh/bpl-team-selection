@@ -1,0 +1,137 @@
+[
+    {
+        "id": 75,
+        "name": "Sakib Al Hasan",
+        "role": "All-rounder",
+        "born": "24/03/1987",
+        "country": "Bangladesh",
+        "salary": 300000,
+        "image": "https://ibb.co/YRpyG2G"
+    },
+    {
+        "id": 15,
+        "name": "Mushfiqur Rahim",
+        "role": "Wicket-keeper, Batsman",
+        "born": "09/05/1987",
+        "country": "Bangladesh",
+        "salary": 250000,
+        "image": "https://ibb.co/TPcWm3F"
+    },
+    {
+        "id": 28,
+        "name": "Tamim Iqbal Khan",
+        "role": "Opening batsman",
+        "born": "20/03/1989",
+        "country": "Bangladesh",
+        "salary": 250000,
+        "image": "https://ibb.co/Kr77fFC"
+    },
+    {
+        "id": 90,
+        "name": "Mustafizur Rahman",
+        "role": "Bowler",
+        "born": "06/09/1995",
+        "country": "Bangladesh",
+        "salary": 260000,
+        "image": "https://ibb.co/82BQ5SF"
+    },
+    {
+        "id": 2,
+        "name": "Mashrafe Mortaza",
+        "role": "Bowler",
+        "born": "05/10/1983",
+        "country": "Bangladesh",
+        "salary": 270000,
+        "image": "https://ibb.co/fvRm82C"
+    },
+    {
+        "id": 57,
+        "name": "Mehidy Hasan Miraz",
+        "role": "Bowling, All-rounder",
+        "born": "25/10/1997",
+        "country": "Bangladesh",
+        "salary": 200000,
+        "image": "https://ibb.co/H7zXh3Z"
+    },
+    {
+        "id": 16,
+        "name": "Liton Kumar Das",
+        "role": "Wicketkeeper",
+        "born": "16/02/1994",
+        "country": "Bangladesh",
+        "salary": 150000,
+        "image": "https://ibb.co/Bg7467n"
+    },
+    {
+        "id": 30,
+        "name": "Mahmudullah Riyad",
+        "role": "Batting, All-rounder",
+        "born": "04/02/1986",
+        "country": "Bangladesh",
+        "salary": 230000,
+        "image": "https://ibb.co/ym2j6RC"
+    },
+    {
+        "id": 59,
+        "name": "Soumya Sarkar",
+        "role": "Batting, All-rounder",
+        "born": "25/02/1993",
+        "country": "Bangladesh",
+        "salary": 985287,
+        "image": "https://ibb.co/QbVwmWR"
+    },
+    {
+        "id": 34,
+        "name": "Mohammad Rubel Hossain",
+        "role": "Bowler",
+        "born": "01/01/1990",
+        "country": "Bangladesh",
+        "salary": 240000,
+        "image": "https://ibb.co/5jm7d3b"
+    },
+    {
+        "id": 1,
+        "name": "Mohammad Sabbir Rahman",
+        "role": "Batting, All-rounder",
+        "born": "22/11/1991",
+        "country": "Bangladesh",
+        "salary": 160000,
+        "image": "https://ibb.co/KK4sggW"
+    },
+    {
+        "id": 30,
+        "name": "Abu Jayed Chowdhury Rahi",
+        "role": "Bowling",
+        "born": "02/08/1993",
+        "country": "Bangladesh",
+        "salary": 120000,
+        "image": "https://ibb.co/yFXkh3X"
+    },
+    {
+        "id": 32,
+        "name": "Mosaddek Hossain Saikat",
+        "role": "Batting, All-rounder",
+        "born": "10/12/1995",
+        "country": "Bangladesh",
+        "salary": 180000,
+        "image": "https://ibb.co/qJb1Lj7"
+    },
+    {
+        "id": 74,
+        "name": "Mohammad Saifuddin",
+        "role": "Bowling, All-rounder",
+        "born": "01/11/1996",
+        "country": "Bangladesh",
+        "salary": 160000,
+        "image": "https://ibb.co/hHkX4Yb"
+    },
+    {
+        "id": 69,
+        "name": "Nasir Hossain",
+        "role": "Batting, All-rounder",
+        "born": "30/11/1991",
+        "country": "Bangladesh",
+        "salary": 280000,
+        "image": "https://ibb.co/SsfNYC5"
+    }
+]
