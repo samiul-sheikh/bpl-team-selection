@@ -6,7 +6,7 @@
         "born": "24/03/1987",
         "country": "Bangladesh",
         "salary": 300000,
-        "image": "https://ibb.co/YRpyG2G"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
     },
     {
         "id": 15,
@@ -15,7 +15,7 @@
         "born": "09/05/1987",
         "country": "Bangladesh",
         "salary": 250000,
-        "image": "https://ibb.co/TPcWm3F"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
     },
     {
         "id": 28,
@@ -24,7 +24,7 @@
         "born": "20/03/1989",
         "country": "Bangladesh",
         "salary": 250000,
-        "image": "https://ibb.co/Kr77fFC"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg"
     },
     {
         "id": 90,
@@ -33,7 +33,7 @@
         "born": "06/09/1995",
         "country": "Bangladesh",
         "salary": 260000,
-        "image": "https://ibb.co/82BQ5SF"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
     },
     {
         "id": 2,
@@ -42,7 +42,7 @@
         "born": "05/10/1983",
         "country": "Bangladesh",
         "salary": 270000,
-        "image": "https://ibb.co/fvRm82C"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
     },
     {
         "id": 57,
@@ -51,7 +51,7 @@
         "born": "25/10/1997",
         "country": "Bangladesh",
         "salary": 200000,
-        "image": "https://ibb.co/H7zXh3Z"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
     },
     {
         "id": 16,
@@ -60,7 +60,7 @@
         "born": "16/02/1994",
         "country": "Bangladesh",
         "salary": 150000,
-        "image": "https://ibb.co/Bg7467n"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
     },
     {
         "id": 30,
@@ -69,7 +69,7 @@
         "born": "04/02/1986",
         "country": "Bangladesh",
         "salary": 230000,
-        "image": "https://ibb.co/ym2j6RC"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg"
     },
     {
         "id": 59,
@@ -78,7 +78,7 @@
         "born": "25/02/1993",
         "country": "Bangladesh",
         "salary": 985287,
-        "image": "https://ibb.co/QbVwmWR"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg"
     },
     {
         "id": 34,
@@ -87,7 +87,7 @@
         "born": "01/01/1990",
         "country": "Bangladesh",
         "salary": 240000,
-        "image": "https://ibb.co/5jm7d3b"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170922/rubel-hossain.jpg"
     },
     {
         "id": 1,
@@ -96,7 +96,7 @@
         "born": "22/11/1991",
         "country": "Bangladesh",
         "salary": 160000,
-        "image": "https://ibb.co/KK4sggW"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg"
     },
     {
         "id": 30,
@@ -105,7 +105,7 @@
         "born": "02/08/1993",
         "country": "Bangladesh",
         "salary": 120000,
-        "image": "https://ibb.co/yFXkh3X"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg"
     },
     {
         "id": 32,
@@ -114,7 +114,7 @@
         "born": "10/12/1995",
         "country": "Bangladesh",
         "salary": 180000,
-        "image": "https://ibb.co/qJb1Lj7"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg"
     },
     {
         "id": 74,
@@ -123,7 +123,7 @@
         "born": "01/11/1996",
         "country": "Bangladesh",
         "salary": 160000,
-        "image": "https://ibb.co/hHkX4Yb"
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
     },
     {
         "id": 69,
@@ -132,6 +132,6 @@
         "born": "30/11/1991",
         "country": "Bangladesh",
         "salary": 280000,
-        "image": "https://ibb.co/SsfNYC5"
+        "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514185100-e1520258816642.jpg"
     }
 ]
