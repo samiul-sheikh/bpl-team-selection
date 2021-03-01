@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import playersData from '../../Data/playersData.json';
+import Player from '../Player/Player';
+import './Information.css';
 
 const Information = () => {
     const [players, setPlayers] = useState([])
@@ -9,11 +11,16 @@ const Information = () => {
     }, [])
 
     return (
-        <div>
-            <h1>Total Players: {players.length}</h1>
-            <ul>
-                {players.map(player => <li>{player.name}</li>)}
-            </ul>
+        <div className="information-container">
+            <div className="player-container">
+                {
+                    players.map(player => <Player player={player}> </Player>)
+                }
+            </div>
+            <div className="cart-container">
+                <h3>This is Cart</h3>
+            </div>
+
         </div>
     );
 };
