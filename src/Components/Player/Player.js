@@ -13,7 +13,7 @@ const Player = (props) => {
             <div>
                 <img src={image} alt="" />
             </div>
-            <div>
+            <div className="player-details">
                 <h2>{name}</h2>
                 <h4>Role: {role}</h4>
                 <h4>Salary: {salary}</h4>

@@ -9,6 +9,15 @@
         "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
     },
     {
+        "id": 2,
+        "name": "Mashrafe Mortaza",
+        "role": "Bowler",
+        "born": "05/10/1983",
+        "country": "Bangladesh",
+        "salary": 270000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+    },
+    {
         "id": 15,
         "name": "Mushfiqur Rahim",
         "role": "Wicket-keeper, Batsman",
@@ -36,24 +45,6 @@
         "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
     },
     {
-        "id": 2,
-        "name": "Mashrafe Mortaza",
-        "role": "Bowler",
-        "born": "05/10/1983",
-        "country": "Bangladesh",
-        "salary": 270000,
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
-    },
-    {
-        "id": 57,
-        "name": "Mehidy Hasan Miraz",
-        "role": "Bowling, All-rounder",
-        "born": "25/10/1997",
-        "country": "Bangladesh",
-        "salary": 200000,
-        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
-    },
-    {
         "id": 16,
         "name": "Liton Kumar Das",
         "role": "Wicketkeeper",
@@ -77,7 +68,7 @@
         "role": "Batting, All-rounder",
         "born": "25/02/1993",
         "country": "Bangladesh",
-        "salary": 985287,
+        "salary": 180000,
         "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170900/soumya-sarkar.jpg"
     },
     {
@@ -126,12 +117,12 @@
         "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
     },
     {
-        "id": 69,
-        "name": "Nasir Hossain",
-        "role": "Batting, All-rounder",
-        "born": "30/11/1991",
+        "id": 57,
+        "name": "Mehidy Hasan Miraz",
+        "role": "Bowling, All-rounder",
+        "born": "25/10/1997",
         "country": "Bangladesh",
-        "salary": 280000,
-        "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514185100-e1520258816642.jpg"
+        "salary": 200000,
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg"
     }
 ]
