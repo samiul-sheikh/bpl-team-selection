@@ -10,11 +10,18 @@ const Information = () => {
         console.log(playersData)
     }, [])
 
+    const handleAddPlayer = (player) => {
+        console.log('player added', player);
+    }
+
     return (
         <div className="information-container">
             <div className="player-container">
                 {
-                    players.map(player => <Player player={player}> </Player>)
+                    players.map(player => <Player
+                        handleAddPlayer = {handleAddPlayer}
+                        player={player}>
+                    </Player>)
                 }
             </div>
             <div className="cart-container">
